@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
